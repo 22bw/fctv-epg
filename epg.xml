@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="fctv-epg">
+<channel id="fctv-49910"><display-name>PPV 13 | OFFLINE</display-name></channel>
+<channel id="fctv-49911"><display-name>PPV 14 | OFFLINE</display-name></channel>
+<channel id="fctv-49912"><display-name>PPV 15 | OFFLINE</display-name></channel>
+<channel id="fctv-49913"><display-name>PPV 16 | OFFLINE</display-name></channel>
+<channel id="fctv-49914"><display-name>PPV 17 | OFFLINE</display-name></channel>
+<channel id="fctv-49915"><display-name>PPV 18 | OFFLINE</display-name></channel>
+<channel id="fctv-49916"><display-name>PPV 19 | OFFLINE</display-name></channel>
+<channel id="fctv-49917"><display-name>PPV 20 | OFFLINE</display-name></channel>
+<channel id="fctv-197936"><display-name>PPV 21 | OFFLINE</display-name></channel>
+<channel id="fctv-197937"><display-name>PPV 22 | OFFLINE</display-name></channel>
+<channel id="fctv-197943"><display-name>PPV 23 | OFFLINE</display-name></channel>
+<channel id="fctv-3141293"><display-name>PPV 02 | OFFLINE</display-name></channel>
+<channel id="fctv-3141294"><display-name>PPV 03 | OFFLINE</display-name></channel>
+<channel id="fctv-3142538"><display-name>PPV 04 | OFFLINE</display-name></channel>
+<channel id="fctv-3143585"><display-name>PPV 05 | OFFLINE</display-name></channel>
+<channel id="fctv-11"><display-name>ANTENNA TV HD</display-name></channel>
+<channel id="fctv-13"><display-name>AWE HD</display-name></channel>
+<channel id="fctv-18"><display-name>BET JAMS</display-name></channel>
+<channel id="fctv-28524"><display-name>LIFETIME REAL WOMEN</display-name></channel>
+<channel id="fctv-118"><display-name>MTV U</display-name></channel>
+<channel id="fctv-278"><display-name>SCREENPIX</display-name></channel>
+<channel id="fctv-277"><display-name>SCREENPIX ACTION</display-name></channel>
+<channel id="fctv-279"><display-name>SCREENPIX VOICES</display-name></channel>
+<channel id="fctv-280"><display-name>SCREENPIX WESTERNS</display-name></channel>
+<channel id="fctv-108"><display-name>UPTV</display-name></channel>
+<channel id="fctv-36057"><display-name>WE TV ABSOLUTE REALITY</display-name></channel>
+<channel id="fctv-3145587"><display-name>Dirtvision 01: NO EVENT</display-name></channel>
+<channel id="fctv-3145586"><display-name>Dirtvision 02: NO EVENT</display-name></channel>
+<channel id="fctv-3145585"><display-name>Dirtvision 03: NO EVENT</display-name></channel>
+<channel id="fctv-3145584"><display-name>Dirtvision 04: NO EVENT</display-name></channel>
+<channel id="fctv-3145583"><display-name>Dirtvision 05: NO EVENT</display-name></channel>
+<channel id="fctv-3145582"><display-name>Dirtvision 06: NO EVENT</display-name></channel>
+<channel id="fctv-3145581"><display-name>Dirtvision 07: NO EVENT</display-name></channel>
+<channel id="fctv-3145580"><display-name>Dirtvision 08: NO EVENT</display-name></channel>
+<channel id="fctv-3145579"><display-name>Dirtvision 09: NO EVENT</display-name></channel>
+<channel id="fctv-3145578"><display-name>Dirtvision 10: NO EVENT</display-name></channel>
+<channel id="fctv-3145575"><display-name>Flo Racing 03: NO EVENT</display-name></channel>
+<channel id="fctv-3145574"><display-name>Flo Racing 04: NO EVENT</display-name></channel>
+<channel id="fctv-3145573"><display-name>Flo Racing 05: NO EVENT</display-name></channel>
+<channel id="fctv-3145572"><display-name>Flo Racing 06: NO EVENT</display-name></channel>
+<channel id="fctv-3145571"><display-name>Flo Racing 07: NO EVENT</display-name></channel>
+<channel id="fctv-3145570"><display-name>Flo Racing 08: NO EVENT</display-name></channel>
+<channel id="fctv-3145569"><display-name>Flo Racing 09: NO EVENT</display-name></channel>
+<channel id="fctv-3145568"><display-name>Flo Racing 10: NO EVENT</display-name></channel>
+<channel id="fctv-3145567"><display-name>Flo Racing 11: NO EVENT</display-name></channel>
+<channel id="fctv-3145566"><display-name>Flo Racing 12: NO EVENT</display-name></channel>
+<channel id="fctv-3145565"><display-name>Flo Racing 13: NO EVENT</display-name></channel>
+<channel id="fctv-3145564"><display-name>Flo Racing 14: NO EVENT</display-name></channel>
+<channel id="fctv-3145563"><display-name>Flo Racing 15: NO EVENT</display-name></channel>
+<channel id="fctv-207998"><display-name>FUBO SPORTS NETWORK</display-name></channel>
+<channel id="fctv-212450"><display-name>HBCU GO</display-name></channel>
+<channel id="fctv-870"><display-name>MAV TV</display-name></channel>
+<channel id="fctv-228801"><display-name>MLB 01 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228800"><display-name>MLB 02 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228799"><display-name>MLB 03 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228798"><display-name>MLB 04 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3144400"><display-name>MLB 04 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228797"><display-name>MLB 05 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3144399"><display-name>MLB 05 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228796"><display-name>MLB 06 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3144398"><display-name>MLB 06 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228795"><display-name>MLB 07 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3144397"><display-name>MLB 07 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228794"><display-name>MLB 08 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3144396"><display-name>MLB 08 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228793"><display-name>MLB 09 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3144395"><display-name>MLB 09 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228792"><display-name>MLB 10 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3144394"><display-name>MLB 10 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228791"><display-name>MLB 11 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3144393"><display-name>MLB 11 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228790"><display-name>MLB 12 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3144392"><display-name>MLB 12 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228789"><display-name>MLB 13 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3144391"><display-name>MLB 13 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228788"><display-name>MLB 14 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3144390"><display-name>MLB 14 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228787"><display-name>MLB 15 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3144389"><display-name>MLB 15 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228786"><display-name>MLB 16 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3144388"><display-name>MLB 16 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228785"><display-name>MLB 17 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3144387"><display-name>MLB 17 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228784"><display-name>MLB 18 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3144386"><display-name>MLB 18 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228783"><display-name>MLB 19 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3144385"><display-name>MLB 19 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228782"><display-name>MLB 20 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3144384"><display-name>MLB 20 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228781"><display-name>MLB 21 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228780"><display-name>MLB 22 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228779"><display-name>MLB 23 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228778"><display-name>MLB 24 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228777"><display-name>MLB 25 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228776"><display-name>MLB 26 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228775"><display-name>MLB 27 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228774"><display-name>MLB 28 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228773"><display-name>MLB 29 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228772"><display-name>MLB 30 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228771"><display-name>MLB 31 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228770"><display-name>MLB 32 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228769"><display-name>MLB 33 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228768"><display-name>MLB 34 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228767"><display-name>MLB 35 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228766"><display-name>MLB 36 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228765"><display-name>MLB 37 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228764"><display-name>MLB 38 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228763"><display-name>MLB 39 | No Event Scheduled</display-name></channel>
+<channel id="fctv-228762"><display-name>MLB 40 | No Event Scheduled</display-name></channel>
+<channel id="fctv-231616"><display-name>MSG SPORTSNET</display-name></channel>
+<channel id="fctv-1723106"><display-name>NBA ATLANTA HAWKS</display-name></channel>
+<channel id="fctv-1723105"><display-name>NBA BOSTON CELTICS</display-name></channel>
+<channel id="fctv-1723104"><display-name>NBA BROOKLYN NETS</display-name></channel>
+<channel id="fctv-1723103"><display-name>NBA CHARLOTTE HORNETS</display-name></channel>
+<channel id="fctv-1723102"><display-name>NBA CHICAGO BULLS</display-name></channel>
+<channel id="fctv-1723101"><display-name>NBA CLEVELAND CAVALIERS</display-name></channel>
+<channel id="fctv-1723100"><display-name>NBA DALLAS MAVERICKS</display-name></channel>
+<channel id="fctv-1723099"><display-name>NBA DENVER NUGGETS</display-name></channel>
+<channel id="fctv-1723098"><display-name>NBA DETROIT PISTONS</display-name></channel>
+<channel id="fctv-3145390"><display-name>NBA DIRECT 07 | OFFLINE</display-name></channel>
+<channel id="fctv-3145389"><display-name>NBA DIRECT 08 | OFFLINE</display-name></channel>
+<channel id="fctv-3145388"><display-name>NBA DIRECT 09 | OFFLINE</display-name></channel>
+<channel id="fctv-3145387"><display-name>NBA DIRECT 10 | OFFLINE</display-name></channel>
+<channel id="fctv-1723097"><display-name>NBA GOLDEN STATE WARRIORS</display-name></channel>
+<channel id="fctv-1723096"><display-name>NBA HOUSTON ROCKETS</display-name></channel>
+<channel id="fctv-1723095"><display-name>NBA INDIANA PACERS</display-name></channel>
+<channel id="fctv-1723094"><display-name>NBA LOS ANGELES CLIPPERS</display-name></channel>
+<channel id="fctv-1723093"><display-name>NBA LOS ANGELES LAKERS</display-name></channel>
+<channel id="fctv-1723092"><display-name>NBA MEMPHIS GRIZZLIES</display-name></channel>
+<channel id="fctv-1723091"><display-name>NBA MIAMI HEAT</display-name></channel>
+<channel id="fctv-1723090"><display-name>NBA MILWAUKEE BUCKS</display-name></channel>
+<channel id="fctv-1723089"><display-name>NBA MINNESOTA TIMBERWOLVES</display-name></channel>
+<channel id="fctv-1723088"><display-name>NBA NEW ORLEANS PELICANS</display-name></channel>
+<channel id="fctv-1723087"><display-name>NBA NEW YORK KNICKS</display-name></channel>
+<channel id="fctv-1723086"><display-name>NBA OKLAHOMA CITY THUNDER</display-name></channel>
+<channel id="fctv-1723085"><display-name>NBA ORLANDO MAGIC</display-name></channel>
+<channel id="fctv-1723084"><display-name>NBA PHILADELPHIA 76ERS</display-name></channel>
+<channel id="fctv-1723083"><display-name>NBA PHOENIX SUNS</display-name></channel>
+<channel id="fctv-1723082"><display-name>NBA PORTLAND TRAIL BLAZERS</display-name></channel>
+<channel id="fctv-1723081"><display-name>NBA SACRAMENTO KINGS</display-name></channel>
+<channel id="fctv-1723080"><display-name>NBA SAN ANTONIO SPURS</display-name></channel>
+<channel id="fctv-1723079"><display-name>NBA TORONTO RAPTORS</display-name></channel>
+<channel id="fctv-1723078"><display-name>NBA UTAH JAZZ</display-name></channel>
+<channel id="fctv-1723077"><display-name>NBA WASHINGTON WIZARDS</display-name></channel>
+<channel id="fctv-70314"><display-name>NBCS CHANNEL CHICAGO</display-name></channel>
+<channel id="fctv-70318"><display-name>NBCS PHILADELPHIA</display-name></channel>
+<channel id="fctv-70313"><display-name>NBCSN</display-name></channel>
+<channel id="fctv-70319"><display-name>NBCSN BAY AREA</display-name></channel>
+<channel id="fctv-225092"><display-name>NBCSN BOSTON</display-name></channel>
+<channel id="fctv-70315"><display-name>NBCSN CALIFORNIA</display-name></channel>
+<channel id="fctv-3127879"><display-name>NCAABASE 033 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127878"><display-name>NCAABASE 034 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127877"><display-name>NCAABASE 035 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127876"><display-name>NCAABASE 036 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127875"><display-name>NCAABASE 037 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127874"><display-name>NCAABASE 038 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127873"><display-name>NCAABASE 039 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127872"><display-name>NCAABASE 040 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127871"><display-name>NCAABASE 041 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127870"><display-name>NCAABASE 042 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127869"><display-name>NCAABASE 043 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127868"><display-name>NCAABASE 044 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127867"><display-name>NCAABASE 045 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127866"><display-name>NCAABASE 046 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127865"><display-name>NCAABASE 047 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127864"><display-name>NCAABASE 048 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127863"><display-name>NCAABASE 049 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127862"><display-name>NCAABASE 050 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127861"><display-name>NCAABASE 051 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127860"><display-name>NCAABASE 052 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127859"><display-name>NCAABASE 053 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127858"><display-name>NCAABASE 054 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127857"><display-name>NCAABASE 055 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127856"><display-name>NCAABASE 056 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127855"><display-name>NCAABASE 057 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127854"><display-name>NCAABASE 058 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127853"><display-name>NCAABASE 059 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127852"><display-name>NCAABASE 060 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127851"><display-name>NCAABASE 061 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127850"><display-name>NCAABASE 062 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127849"><display-name>NCAABASE 063 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127848"><display-name>NCAABASE 064 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127847"><display-name>NCAABASE 065 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127846"><display-name>NCAABASE 066 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127845"><display-name>NCAABASE 067 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127844"><display-name>NCAABASE 068 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127843"><display-name>NCAABASE 069 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127842"><display-name>NCAABASE 070 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127841"><display-name>NCAABASE 071 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127840"><display-name>NCAABASE 072 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127839"><display-name>NCAABASE 073 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127838"><display-name>NCAABASE 074 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127837"><display-name>NCAABASE 075 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127836"><display-name>NCAABASE 076 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127835"><display-name>NCAABASE 077 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127834"><display-name>NCAABASE 078 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127833"><display-name>NCAABASE 079 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127832"><display-name>NCAABASE 080 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127831"><display-name>NCAABASE 081 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127830"><display-name>NCAABASE 082 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127829"><display-name>NCAABASE 083 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127828"><display-name>NCAABASE 084 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127827"><display-name>NCAABASE 085 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127826"><display-name>NCAABASE 086 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127825"><display-name>NCAABASE 087 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127824"><display-name>NCAABASE 088 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127823"><display-name>NCAABASE 089 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127822"><display-name>NCAABASE 090 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127821"><display-name>NCAABASE 091 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127820"><display-name>NCAABASE 092 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127819"><display-name>NCAABASE 093 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127818"><display-name>NCAABASE 094 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127817"><display-name>NCAABASE 095 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127816"><display-name>NCAABASE 096 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127815"><display-name>NCAABASE 097 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127814"><display-name>NCAABASE 098 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127813"><display-name>NCAABASE 099 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3127812"><display-name>NCAABASE 100 | No Event Scheduled</display-name></channel>
+<channel id="fctv-3141532"><display-name>NFL 01 | TEXANS VS COLTS 6PM (HD)</display-name></channel>
+<channel id="fctv-1764198"><display-name>NFL 07 | OFFLINE (HD)</display-name></channel>
+<channel id="fctv-1764197"><display-name>NFL 08 | OFFLINE (HD)</display-name></channel>
+<channel id="fctv-1764196"><display-name>NFL 09 | OFFLINE (HD)</display-name></channel>
+<channel id="fctv-1764195"><display-name>NFL 10 | OFFLINE (HD)</display-name></channel>
+<channel id="fctv-1764194"><display-name>NFL 11 | OFFLINE (HD)</display-name></channel>
+<channel id="fctv-1764193"><display-name>NFL 12 | OFFLINE (HD)</display-name></channel>
+<channel id="fctv-1764192"><display-name>NFL 13 | OFFLINE (HD)</display-name></channel>
+<channel id="fctv-3141519"><display-name>NFL 14 | OFFLINE (HD)</display-name></channel>
+<channel id="fctv-1764191"><display-name>NFL 14 | OFFLINE (HD)</display-name></channel>
+<channel id="fctv-3141518"><display-name>NFL 15 | OFFLINE (HD)</display-name></channel>
+<channel id="fctv-1764190"><display-name>NFL 15 | OFFLINE (HD)</display-name></channel>
+<channel id="fctv-3141517"><display-name>NFL 16 | OFFLINE (HD)</display-name></channel>
+<channel id="fctv-1764189"><display-name>NFL 16 | OFFLINE (HD)</display-name></channel>
+<channel id="fctv-3141516"><display-name>NFL 17 | OFFLINE (HD)</display-name></channel>
+<channel id="fctv-3141515"><display-name>NFL 18 | OFFLINE (HD)</display-name></channel>
+<channel id="fctv-3143638"><display-name>NHL Game Pass 01: NO EVENT</display-name></channel>
+<channel id="fctv-3143637"><display-name>NHL Game Pass 02: NO EVENT</display-name></channel>
+<channel id="fctv-3143636"><display-name>NHL Game Pass 03: NO EVENT</display-name></channel>
+<channel id="fctv-3143635"><display-name>NHL Game Pass 04: NO EVENT</display-name></channel>
+<channel id="fctv-3143634"><display-name>NHL Game Pass 05: NO EVENT</display-name></channel>
+<channel id="fctv-3143633"><display-name>NHL Game Pass 06: NO EVENT</display-name></channel>
+<channel id="fctv-3143632"><display-name>NHL Game Pass 07: NO EVENT</display-name></channel>
+<channel id="fctv-3143631"><display-name>NHL Game Pass 08: NO EVENT</display-name></channel>
+<channel id="fctv-3143630"><display-name>NHL Game Pass 09: NO EVENT</display-name></channel>
+<channel id="fctv-3143629"><display-name>NHL Game Pass 10: NO EVENT</display-name></channel>
+<channel id="fctv-3143628"><display-name>NHL Game Pass 11: NO EVENT</display-name></channel>
+<channel id="fctv-3143627"><display-name>NHL Game Pass 12: NO EVENT</display-name></channel>
+<channel id="fctv-3143626"><display-name>NHL Game Pass 13: NO EVENT</display-name></channel>
+<channel id="fctv-3143625"><display-name>NHL Game Pass 14: NO EVENT</display-name></channel>
+<channel id="fctv-3143624"><display-name>NHL Game Pass 15: NO EVENT</display-name></channel>
+<channel id="fctv-3143623"><display-name>NHL Game Pass 16: NO EVENT</display-name></channel>
+<channel id="fctv-58769"><display-name>ROOT SPORTS</display-name></channel>
+<channel id="fctv-32542"><display-name>SNY</display-name></channel>
+<channel id="fctv-230532"><display-name>SPACE CITY HOME NETWORK</display-name></channel>
+<channel id="fctv-156"><display-name>UFC FIGHT PASS</display-name></channel>
+<channel id="fctv-3138553"><display-name>WNBA 02: No Event Scheduled</display-name></channel>
+<channel id="fctv-3138552"><display-name>WNBA 03: No Event Scheduled</display-name></channel>
+<channel id="fctv-3138551"><display-name>WNBA 04: No Event Scheduled</display-name></channel>
+<channel id="fctv-3138550"><display-name>WNBA 05: No Event Scheduled</display-name></channel>
+<channel id="fctv-3138549"><display-name>WNBA 06: No Event Scheduled</display-name></channel>
+<channel id="fctv-3138548"><display-name>WNBA 07: No Event Scheduled</display-name></channel>
+<channel id="fctv-3138547"><display-name>WNBA 08: No Event Scheduled</display-name></channel>
+<channel id="fctv-3138855"><display-name>WNBA ATLANTA DREAM</display-name></channel>
+<channel id="fctv-3138854"><display-name>WNBA CHICAGO SKY</display-name></channel>
+<channel id="fctv-3138853"><display-name>WNBA CONNECTICUT SUN</display-name></channel>
+<channel id="fctv-3138852"><display-name>WNBA DALLAS WINGS</display-name></channel>
+<channel id="fctv-3138851"><display-name>WNBA INDIANA FEVER</display-name></channel>
+<channel id="fctv-3138850"><display-name>WNBA LAS VEGAS ACES</display-name></channel>
+<channel id="fctv-3138845"><display-name>WNBA LOS ANGELES SPARKS</display-name></channel>
+<channel id="fctv-3138844"><display-name>WNBA MINNESOTA LYNX</display-name></channel>
+<channel id="fctv-3138843"><display-name>WNBA NEW YORK LIBERTY</display-name></channel>
+<channel id="fctv-3138842"><display-name>WNBA PHOENIX MERCURY</display-name></channel>
+<channel id="fctv-3138841"><display-name>WNBA SEATTLE STORM</display-name></channel>
+<channel id="fctv-155"><display-name>WWE NETWORK</display-name></channel>
+<channel id="fctv-3145801"><display-name>NBA DIRECT 11 | OFFLINE</display-name></channel>
+<channel id="fctv-3145800"><display-name>NBA DIRECT 12 | OFFLINE</display-name></channel>
+<channel id="fctv-3145799"><display-name>NBA DIRECT 13 | OFFLINE</display-name></channel>
+<channel id="fctv-3145803"><display-name>NBA DIRECT 14 | OFFLINE</display-name></channel>
+<channel id="fctv-3145802"><display-name>NBA DIRECT 15 | OFFLINE</display-name></channel>
+<channel id="fctv-3147951"><display-name>[espnplus2] ESPNU: Rice vs. Temple (Rice vs. Temple) (2026-11-20 01:00:00)</display-name></channel>
+<channel id="fctv-3147952"><display-name>[espnplus2] ESPN: Rice vs. Temple (Rice vs. Temple) (2026-11-20 04:00:00)</display-name></channel>
+<channel id="fctv-3147954"><display-name>[espnplus2] ESPNews: The Kingdom (The Kingdom) (2026-11-20 06:00:00)</display-name></channel>
+<channel id="fctv-3147953"><display-name>[espnplus2] ESPN: Get Up (Get Up) (2026-11-20 08:00:00)</display-name></channel>
+<channel id="fctv-3147955"><display-name>[espnplus2] ACCN: NC State Introduces Philip Rivers (NC State Introduces Philip Rivers) (2026-11-20 10:00:00)</display-name></channel>
+<channel id="fctv-3147949"><display-name>[espnplus2] SEC Network: SEC Inside: Texas vs. LSU (SEC Inside: Texas vs. LSU) (2026-11-20 11:00:00)</display-name></channel>
+<channel id="fctv-3147950"><display-name>[espnplus2] SEC Network: SEC Inside: South Carolina Volleyball (SEC Inside: South Carolina Volleyball) (2026-11-20 11:30:00)</display-name></channel>
+<channel id="fctv-3147940"><display-name>[espnplus2] ESPN Deportes: SportsCenter (SportsCenter) (2026-11-20 13:00:00)</display-name></channel>
+<channel id="fctv-3147948"><display-name>[espnplus2] ACCN: ACC Network Football Podcast (ACC Network Football Podcast) (2026-11-20 15:00:00)</display-name></channel>
+<channel id="fctv-3147917"><display-name>[espnplus2] Soccer: 11/20 - ESPN FC (11/20 - ESPN FC) (2026-11-20 17:00:00)</display-name></channel>
+<channel id="fctv-3147915"><display-name>[espnplus2] Soccer: Villanova vs. #6 Penn State (Villanova vs. #6 Penn State) (2026-11-20 18:00:00)</display-name></channel>
+<channel id="fctv-3147920"><display-name>[espnplus2] NCAA Men&#x27;s Basketball: South Alabama vs. SMU (South Alabama vs. SMU) (2026-11-20 20:00:00)</display-name></channel>
+<channel id="fctv-3147919"><display-name>[espnplus2] NCAA Women&#x27;s Basketball: Idaho St vs. LMU (Idaho St vs. LMU) (2026-11-20 22:00:00)</display-name></channel>
+<channel id="fctv-3147916"><display-name>[espnplus2] Soccer: Fútbol Picante (Fútbol Picante) (2026-11-21 00:00:00)</display-name></channel>
+<channel id="fctv-3147943"><display-name>[espnplus2] ESPN2: Recap Show: Quarterfinals, Day 1 (Recap Show: Quarterfinals, Day 1) (2026-11-21 01:00:00)</display-name></channel>
+<channel id="fctv-3147947"><display-name>[espnplus2] ACCN: Duke vs. #7 Miami (Duke vs. #7 Miami) (2026-11-21 02:00:00)</display-name></channel>
+<channel id="fctv-3147925"><display-name>[espnplus2] ESPN: SportsCenter (SportsCenter) (2026-11-21 05:00:00)</display-name></channel>
+<channel id="fctv-3147935"><display-name>[espnplus2] ESPNews: Bullshooter Invitational V (Bullshooter Invitational V) (2026-11-21 08:00:00)</display-name></channel>
+<channel id="fctv-3147928"><display-name>[espnplus2] ESPNews: United Grid League (United Grid League) (2026-11-21 09:00:00)</display-name></channel>
+<channel id="fctv-3147914"><display-name>[espnplus2] Swimming and Diving: Bruno Invite (Bruno Invite) (2026-11-21 10:00:00)</display-name></channel>
+<channel id="fctv-3147926"><display-name>[espnplus2] ESPN+: NJCAA Men&#x27;s Soccer (NJCAA Men&#x27;s Soccer) (2026-11-21 16:00:00)</display-name></channel>
+<channel id="fctv-3147945"><display-name>[espnplus2] ACCNX: Grand Canyon vs. SMU (Grand Canyon vs. SMU) (2026-11-21 18:00:00)</display-name></channel>
+<channel id="fctv-3147921"><display-name>[espnplus2] ESPNU: UTSA vs. UAB (UTSA vs. UAB) (2026-11-21 20:00:00)</display-name></channel>
+<channel id="fctv-3147931"><display-name>[espnplus2] ESPNews: Popdarts East Coast Wildcard (Popdarts East Coast Wildcard) (2026-11-21 23:00:00)</display-name></channel>
+<channel id="fctv-3147918"><display-name>[espnplus2] SEC Network: SEC Football Final (SEC Football Final) (2026-11-22 00:00:00)</display-name></channel>
+<channel id="fctv-3147944"><display-name>[espnplus2] ESPN2: College Football Final (College Football Final) (2026-11-22 01:00:00)</display-name></channel>
+<channel id="fctv-3147922"><display-name>[espnplus2] ESPNU: Saban (Saban) (2026-11-22 02:00:00)</display-name></channel>
+<channel id="fctv-3147932"><display-name>[espnplus2] ESPNews: NWLA All-Star Game (NWLA All-Star Game) (2026-11-22 03:00:00)</display-name></channel>
+<channel id="fctv-3147923"><display-name>[espnplus2] ESPNU: College Football Final (College Football Final) (2026-11-22 04:00:00)</display-name></channel>
+<channel id="fctv-3147937"><display-name>[espnplus2] ESPNews: 2026 National Putting Tour (2026 National Putting Tour) (2026-11-22 05:00:00)</display-name></channel>
+<channel id="fctv-3147936"><display-name>[espnplus2] ESPNews: Bike Polo Championship (Bike Polo Championship) (2026-11-22 05:30:00)</display-name></channel>
+<channel id="fctv-3147942"><display-name>[espnplus2] ESPN2: Recap Show: Quarterfinals, Day 2 (Recap Show: Quarterfinals, Day 2) (2026-11-22 06:00:00)</display-name></channel>
+<channel id="fctv-3147924"><display-name>[espnplus2] ESPNU: #11 Wake Forest vs. Georgia Tech (#11 Wake Forest vs. Georgia Tech) (2026-11-22 07:00:00)</display-name></channel>
+<channel id="fctv-3147913"><display-name>[espnplus2] Swimming and Diving: Bruno Invite (Bruno Invite) (2026-11-22 10:00:00)</display-name></channel>
+<channel id="fctv-3147941"><display-name>[espnplus2] ESPN+: Big South Volleyball Championship (Big South Volleyball Championship) (2026-11-22 16:00:00)</display-name></channel>
+<channel id="fctv-3147939"><display-name>[espnplus2] ESPN Deportes: SportsCenter (SportsCenter) (2026-11-22 18:00:00)</display-name></channel>
+<channel id="fctv-3147927"><display-name>[espnplus2] ESPN+: Ivy Women&#x27;s VB Championship (Ivy Women&#x27;s VB Championship) (2026-11-22 19:00:00)</display-name></channel>
+<channel id="fctv-3147930"><display-name>[espnplus2] ESPNews: The Popdarts Championship (The Popdarts Championship) (2026-11-22 21:00:00)</display-name></channel>
+<channel id="fctv-3147946"><display-name>[espnplus2] ACCN: Virginia Tech vs. #7 Miami (Virginia Tech vs. #7 Miami) (2026-11-22 22:00:00)</display-name></channel>
+<channel id="fctv-3147929"><display-name>[espnplus2] ESPNews: T-Rex World Championship Races (T-Rex World Championship Races) (2026-11-23 01:00:00)</display-name></channel>
+<channel id="fctv-3147938"><display-name>[espnplus2] ESPNews: 2026 Corgi Races at Emerald Downs (2026 Corgi Races at Emerald Downs) (2026-11-23 01:30:00)</display-name></channel>
+<channel id="fctv-3147934"><display-name>[espnplus2] ESPNews: Meadowlands Racetrack Wiener Dog Derby (Meadowlands Racetrack Wiener Dog Derby) (2026-11-23 02:00:00)</display-name></channel>
+<channel id="fctv-3147933"><display-name>[espnplus2] ESPNews: NuLu Bock Fest Goat Racing Championships (NuLu Bock Fest Goat Racing Championships) (2026-11-23 02:30:00)</display-name></channel>
+<channel id="fctv-3147904"><display-name>[espnplus2] ESPNews: Great Bahamian Crab Races (Great Bahamian Crab Races) (2026-11-23 03:00:00)</display-name></channel>
+<channel id="fctv-3147902"><display-name>[espnplus2] SEC Network: #1 Georgia vs. #21 South Carolina (#1 Georgia vs. #21 South Carolina) (2026-11-23 03:30:00)</display-name></channel>
+<channel id="fctv-3147898"><display-name>[espnplus2] SEC Network: TrueSouth: Buford Highway, GA (TrueSouth: Buford Highway, GA) (2026-11-23 06:30:00)</display-name></channel>
+<channel id="fctv-3147900"><display-name>[espnplus2] SEC Network: SEC Football Final (SEC Football Final) (2026-11-23 07:00:00)</display-name></channel>
+<channel id="fctv-3147899"><display-name>[espnplus2] SEC Network: SEC This Morning (SEC This Morning) (2026-11-23 08:00:00)</display-name></channel>
+<channel id="fctv-3147909"><display-name>[espnplus2] ESPN2: St Bonaventure vs. App State (St Bonaventure vs. App State) (2026-11-23 11:00:00)</display-name></channel>
+<channel id="fctv-3147901"><display-name>[espnplus2] SEC Network +: Auburn Football Press Conference (Auburn Football Press Conference) (2026-11-23 13:00:00)</display-name></channel>
+<channel id="fctv-3147908"><display-name>[espnplus2] ESPN2: The Breakdown with Peyton and Kuechly  (Episode 6) (The Breakdown with Peyton and Kuechly  (Episode 6)) (2026-11-23 14:00:00)</display-name></channel>
+<channel id="fctv-3147910"><display-name>[espnplus2] ESPN2: Ole Miss vs. Clemson (Ole Miss vs. Clemson) (2026-11-23 14:30:00)</display-name></channel>
+<channel id="fctv-3147912"><display-name>[espnplus2] ESPN2: College Basketball Scoreboard (College Basketball Scoreboard) (2026-11-23 16:30:00)</display-name></channel>
+<channel id="fctv-3147905"><display-name>[espnplus2] ESPNews: 30 For 30: Run Ricky Run (30 For 30: Run Ricky Run) (2026-11-23 17:00:00)</display-name></channel>
+<channel id="fctv-3147903"><display-name>[espnplus2] ESPN: Progressive Monday Night Kickoff (Progressive Monday Night Kickoff) (2026-11-23 20:00:00)</display-name></channel>
+<channel id="fctv-3147911"><display-name>[espnplus2] ESPN2: MNF with Peyton and Eli (MNF with Peyton and Eli) (2026-11-23 20:15:00)</display-name></channel>
+<channel id="fctv-3147907"><display-name>[espnplus2] ESPN Deportes: Monday Night Postgame (Monday Night Postgame) (2026-11-23 23:15:00)</display-name></channel>
+<channel id="fctv-3147906"><display-name>[espnplus2] ESPN Deportes: SportsCenter (SportsCenter) (2026-11-23 23:30:00)</display-name></channel>
+<channel id="fctv-3125286"><display-name>A24</display-name></channel>
+<channel id="fctv-3125250"><display-name>EL TRECE</display-name></channel>
+<channel id="fctv-3125242"><display-name>TELEFE</display-name></channel>
+<channel id="fctv-3125240"><display-name>TELEVISION PUBLICA</display-name></channel>
+<channel id="fctv-3125239"><display-name>TODO NOTICIAS</display-name></channel>
+<channel id="fctv-3125255"><display-name>CRONICA TV</display-name></channel>
+<channel id="fctv-3125248"><display-name>LN+</display-name></channel>
+<channel id="fctv-3125247"><display-name>MAGAZINE</display-name></channel>
+<channel id="fctv-3125241"><display-name>TELEMAX</display-name></channel>
+<channel id="fctv-3125265"><display-name>ATB</display-name></channel>
+<channel id="fctv-3125243"><display-name>RTP</display-name></channel>
+<channel id="fctv-3125245"><display-name>RED PAT</display-name></channel>
+<channel id="fctv-3125244"><display-name>RED UNO SANTA CRUZ</display-name></channel>
+<channel id="fctv-3125249"><display-name>GIGAVISION</display-name></channel>
+<channel id="fctv-3125267"><display-name>AMC</display-name></channel>
+<channel id="fctv-3125264"><display-name>AXN HD</display-name></channel>
+<channel id="fctv-3125228"><display-name>HBO HD</display-name></channel>
+<channel id="fctv-3125226"><display-name>HGTV HD</display-name></channel>
+<channel id="fctv-3125210"><display-name>TNT HD</display-name></channel>
+<channel id="fctv-3125232"><display-name>ETC TV</display-name></channel>
+<channel id="fctv-3125208"><display-name>TV+</display-name></channel>
+<channel id="fctv-3125206"><display-name>TVN</display-name></channel>
+<channel id="fctv-3125204"><display-name>BIO BIO</display-name></channel>
+<channel id="fctv-3125181"><display-name>SANTIAGO TV</display-name></channel>
+<channel id="fctv-3125172"><display-name>TV SALUD</display-name></channel>
+<channel id="fctv-3125190"><display-name>EMOL TV</display-name></channel>
+<channel id="fctv-3125192"><display-name>CDO BASICO</display-name></channel>
+<channel id="fctv-3125188"><display-name>NTN24</display-name></channel>
+<channel id="fctv-3125184"><display-name>RCN OP1</display-name></channel>
+<channel id="fctv-3125183"><display-name>RCN OP2</display-name></channel>
+<channel id="fctv-3125182"><display-name>RCN OP3</display-name></channel>
+<channel id="fctv-3125160"><display-name>COSMOVISION</display-name></channel>
+<channel id="fctv-3125149"><display-name>PASIONES</display-name></channel>
+<channel id="fctv-3125163"><display-name>CANAL TRECE</display-name></channel>
+<channel id="fctv-3125145"><display-name>TD+</display-name></channel>
+<channel id="fctv-3125155"><display-name>ENLACE</display-name></channel>
+<channel id="fctv-3125142"><display-name>TELESUR</display-name></channel>
+<channel id="fctv-3125135"><display-name>VOICE OVERV</display-name></channel>
+<channel id="fctv-3125152"><display-name>EXTREMA TV</display-name></channel>
+<channel id="fctv-3125151"><display-name>FIDES</display-name></channel>
+<channel id="fctv-3125158"><display-name>CRISTOVISION</display-name></channel>
+<channel id="fctv-3125156"><display-name>ENLACE</display-name></channel>
+<channel id="fctv-3125157"><display-name>EJTV</display-name></channel>
+<channel id="fctv-3125162"><display-name>CARTAGO MEDIO</display-name></channel>
+<channel id="fctv-3125146"><display-name>SARAPIQUI</display-name></channel>
+<channel id="fctv-3125159"><display-name>COTO BRUS TV</display-name></channel>
+<channel id="fctv-3125168"><display-name>CANAL 1</display-name></channel>
+<channel id="fctv-3125148"><display-name>REPRETEL 4</display-name></channel>
+<channel id="fctv-3125161"><display-name>COLOSAL</display-name></channel>
+<channel id="fctv-3125106"><display-name>TELERED</display-name></channel>
+<channel id="fctv-3125115"><display-name>RTS</display-name></channel>
+<channel id="fctv-3125114"><display-name>RTU</display-name></channel>
+<channel id="fctv-3125112"><display-name>TC</display-name></channel>
+<channel id="fctv-3125127"><display-name>CANAL UNO</display-name></channel>
+<channel id="fctv-3125064"><display-name>LA 1</display-name></channel>
+<channel id="fctv-3125063"><display-name>LA 2</display-name></channel>
+<channel id="fctv-3125043"><display-name>TV3</display-name></channel>
+<channel id="fctv-3125057"><display-name>M. SERIES 2</display-name></channel>
+<channel id="fctv-3125058"><display-name>MOVISTAR DRAMA</display-name></channel>
+<channel id="fctv-3125060"><display-name>M. COMEDIA</display-name></channel>
+<channel id="fctv-3125066"><display-name>ENERGY</display-name></channel>
+<channel id="fctv-3125065"><display-name>ESP TVE</display-name></channel>
+<channel id="fctv-3125016"><display-name>TN23</display-name></channel>
+<channel id="fctv-3125014"><display-name>TSI</display-name></channel>
+<channel id="fctv-3125026"><display-name>HCH</display-name></channel>
+<channel id="fctv-3125010"><display-name>VTV</display-name></channel>
+<channel id="fctv-3125023"><display-name>TALANGA CANAL 17</display-name></channel>
+<channel id="fctv-3125039"><display-name>AZA TV</display-name></channel>
+<channel id="fctv-3125040"><display-name>ALSACIAS TELEVISION</display-name></channel>
+<channel id="fctv-3125012"><display-name>TV CENTRO HD</display-name></channel>
+<channel id="fctv-3125024"><display-name>METRO TV</display-name></channel>
+<channel id="fctv-3125030"><display-name>DEPORTES TVC</display-name></channel>
+<channel id="fctv-3125029"><display-name>EBENEZER</display-name></channel>
+<channel id="fctv-3125025"><display-name>LENCA TV</display-name></channel>
+<channel id="fctv-3125015"><display-name>TODO DEPORTES</display-name></channel>
+<channel id="fctv-3124998"><display-name>COS FC HD</display-name></channel>
+<channel id="fctv-3124997"><display-name>ECO TV</display-name></channel>
+<channel id="fctv-3124988"><display-name>RPC FHD</display-name></channel>
+<channel id="fctv-3125009"><display-name>ABC TV HD</display-name></channel>
+<channel id="fctv-3124985"><display-name>SNT</display-name></channel>
+<channel id="fctv-3124987"><display-name>RPC HD</display-name></channel>
+<channel id="fctv-3124975"><display-name>ATV</display-name></channel>
+<channel id="fctv-3124972"><display-name>BHTV</display-name></channel>
+<channel id="fctv-3124958"><display-name>RPP</display-name></channel>
+<channel id="fctv-3124947"><display-name>WILLAX PE</display-name></channel>
+<channel id="fctv-3124976"><display-name>ABC</display-name></channel>
+<channel id="fctv-3124946"><display-name>WIPR</display-name></channel>
+<channel id="fctv-3124939"><display-name>CDN 37</display-name></channel>
+<channel id="fctv-3124937"><display-name>CDN HD</display-name></channel>
+<channel id="fctv-3124945"><display-name>ANTENA 7</display-name></channel>
+<channel id="fctv-3124938"><display-name>CDN DEPORTES</display-name></channel>
+<channel id="fctv-3124922"><display-name>TELENORD 10</display-name></channel>
+<channel id="fctv-3124921"><display-name>TELENORD 12</display-name></channel>
+<channel id="fctv-3124929"><display-name>ROMANA TV</display-name></channel>
+<channel id="fctv-3124930"><display-name>RNN</display-name></channel>
+<channel id="fctv-3124918"><display-name>TELEUNIVERSO</display-name></channel>
+<channel id="fctv-3124919"><display-name>TELESISTEMA  CANAL 11</display-name></channel>
+<channel id="fctv-3124891"><display-name>UCL</display-name></channel>
+<channel id="fctv-3124886"><display-name>VTV HD</display-name></channel>
+<channel id="fctv-3124893"><display-name>TV FANB</display-name></channel>
+<channel id="fctv-3124909"><display-name>IVC</display-name></channel>
+<channel id="fctv-3124911"><display-name>EVTV MIAMI</display-name></channel>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-108"><title>UPTV</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-11"><title>ANTENNA TV HD</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-118"><title>MTV U</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-13"><title>AWE HD</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-155"><title>WWE NETWORK</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-156"><title>UFC FIGHT PASS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723077"><title>NBA WASHINGTON WIZARDS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723078"><title>NBA UTAH JAZZ</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723079"><title>NBA TORONTO RAPTORS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723080"><title>NBA SAN ANTONIO SPURS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723081"><title>NBA SACRAMENTO KINGS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723082"><title>NBA PORTLAND TRAIL BLAZERS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723083"><title>NBA PHOENIX SUNS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261121180000 +0000" stop="20261121204500 +0000" channel="fctv-1723084"><title>NBA: Milwaukee Bucks at Philadelphia 76ers</title><desc>Xfinity Mobile Arena, Philadelphia. TV: MyMi, Bucks App. Records: Milwaukee Bucks (1-15) at Philadelphia 76ers (13-3)</desc></programme>
+<programme start="20261124000000 +0000" stop="20261124024500 +0000" channel="fctv-1723084"><title>NBA: Portland Trail Blazers at Philadelphia 76ers</title><desc>Xfinity Mobile Arena, Philadelphia. TV: BlazerVision. Records: Portland Trail Blazers (10-5) at Philadelphia 76ers (13-3)</desc></programme>
+<programme start="20261125220000 +0000" stop="20261126004500 +0000" channel="fctv-1723084"><title>NBA: Miami Heat at Philadelphia 76ers</title><desc>Xfinity Mobile Arena, Philadelphia. TV: ESPN. Records: Miami Heat (9-6) at Philadelphia 76ers (13-3)</desc></programme>
+<programme start="20261128003000 +0000" stop="20261128031500 +0000" channel="fctv-1723084"><title>NBA: Philadelphia 76ers at Indiana Pacers</title><desc>Gainbridge Fieldhouse, Indianapolis. Records: Philadelphia 76ers (13-3) at Indiana Pacers (5-11)</desc></programme>
+<programme start="20261129013000 +0000" stop="20261129041500 +0000" channel="fctv-1723084"><title>NBA: Philadelphia 76ers at Houston Rockets</title><desc>Toyota Center (Houston), Houston. TV: NBA TV. Records: Philadelphia 76ers (13-3) at Houston Rockets (12-5)</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723085"><title>NBA ORLANDO MAGIC</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723086"><title>NBA OKLAHOMA CITY THUNDER</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723087"><title>NBA NEW YORK KNICKS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723088"><title>NBA NEW ORLEANS PELICANS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723089"><title>NBA MINNESOTA TIMBERWOLVES</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723090"><title>NBA MILWAUKEE BUCKS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723091"><title>NBA MIAMI HEAT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723092"><title>NBA MEMPHIS GRIZZLIES</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723093"><title>NBA LOS ANGELES LAKERS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723094"><title>NBA LOS ANGELES CLIPPERS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723095"><title>NBA INDIANA PACERS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723096"><title>NBA HOUSTON ROCKETS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723097"><title>NBA GOLDEN STATE WARRIORS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723098"><title>NBA DETROIT PISTONS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723099"><title>NBA DENVER NUGGETS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723100"><title>NBA DALLAS MAVERICKS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723101"><title>NBA CLEVELAND CAVALIERS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723102"><title>NBA CHICAGO BULLS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723103"><title>NBA CHARLOTTE HORNETS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723104"><title>NBA BROOKLYN NETS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723105"><title>NBA BOSTON CELTICS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1723106"><title>NBA ATLANTA HAWKS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1764189"><title>OFFLINE (HD)</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1764190"><title>OFFLINE (HD)</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1764191"><title>OFFLINE (HD)</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1764192"><title>OFFLINE (HD)</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1764193"><title>OFFLINE (HD)</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1764194"><title>OFFLINE (HD)</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1764195"><title>OFFLINE (HD)</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1764196"><title>OFFLINE (HD)</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1764197"><title>OFFLINE (HD)</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-1764198"><title>OFFLINE (HD)</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-18"><title>BET JAMS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-197936"><title>OFFLINE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-197937"><title>OFFLINE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-197943"><title>OFFLINE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-207998"><title>FUBO SPORTS NETWORK</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-212450"><title>HBCU GO</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-225092"><title>NBCSN BOSTON</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228762"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228763"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228764"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228765"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228766"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228767"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228768"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228769"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228770"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228771"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228772"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228773"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228774"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228775"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228776"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228777"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228778"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228779"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228780"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228781"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228782"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228783"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228784"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228785"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228786"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228787"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228788"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228789"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228790"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228791"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228792"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228793"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228794"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228795"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228796"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228797"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228798"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228799"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228800"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-228801"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-230532"><title>SPACE CITY HOME NETWORK</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-231616"><title>MSG SPORTSNET</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-277"><title>SCREENPIX ACTION</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-278"><title>SCREENPIX</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-279"><title>SCREENPIX VOICES</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-280"><title>SCREENPIX WESTERNS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-28524"><title>LIFETIME REAL WOMEN</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3124886"><title>VTV HD</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3124891"><title>UCL</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3124893"><title>TV FANB</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3124909"><title>IVC</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3124911"><title>EVTV MIAMI</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3124918"><title>TELEUNIVERSO</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3124919"><title>TELESISTEMA  CANAL 11</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3124921"><title>TELENORD 12</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3124922"><title>TELENORD 10</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3124929"><title>ROMANA TV</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3124930"><title>RNN</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3124937"><title>CDN HD</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3124938"><title>CDN DEPORTES</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3124939"><title>CDN 37</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3124945"><title>ANTENA 7</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3124946"><title>WIPR</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3124947"><title>WILLAX PE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3124958"><title>RPP</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3124972"><title>BHTV</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3124975"><title>ATV</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3124976"><title>ABC</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3124985"><title>SNT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3124987"><title>RPC HD</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3124988"><title>RPC FHD</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3124997"><title>ECO TV</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3124998"><title>COS FC HD</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125009"><title>ABC TV HD</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125010"><title>VTV</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125012"><title>TV CENTRO HD</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125014"><title>TSI</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125015"><title>TODO DEPORTES</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125016"><title>TN23</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125023"><title>TALANGA CANAL 17</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125024"><title>METRO TV</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125025"><title>LENCA TV</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125026"><title>HCH</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125029"><title>EBENEZER</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125030"><title>DEPORTES TVC</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125039"><title>AZA TV</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125040"><title>ALSACIAS TELEVISION</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125043"><title>TV3</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125057"><title>M. SERIES 2</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125058"><title>MOVISTAR DRAMA</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125060"><title>M. COMEDIA</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125063"><title>LA 2</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125064"><title>LA 1</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125065"><title>ESP TVE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125066"><title>ENERGY</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125106"><title>TELERED</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125112"><title>TC</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125114"><title>RTU</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125115"><title>RTS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125127"><title>CANAL UNO</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125135"><title>VOICE OVERV</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125142"><title>TELESUR</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125145"><title>TD+</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125146"><title>SARAPIQUI</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125148"><title>REPRETEL 4</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125149"><title>PASIONES</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125151"><title>FIDES</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125152"><title>EXTREMA TV</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125155"><title>ENLACE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125156"><title>ENLACE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125157"><title>EJTV</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125158"><title>CRISTOVISION</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125159"><title>COTO BRUS TV</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125160"><title>COSMOVISION</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125161"><title>COLOSAL</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125162"><title>CARTAGO MEDIO</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125163"><title>CANAL TRECE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125168"><title>CANAL 1</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125172"><title>TV SALUD</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125181"><title>SANTIAGO TV</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125182"><title>RCN OP3</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125183"><title>RCN OP2</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125184"><title>RCN OP1</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125188"><title>NTN24</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125190"><title>EMOL TV</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125192"><title>CDO BASICO</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125204"><title>BIO BIO</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125206"><title>TVN</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125208"><title>TV+</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125210"><title>TNT HD</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125226"><title>HGTV HD</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125228"><title>HBO HD</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125232"><title>ETC TV</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125239"><title>TODO NOTICIAS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125240"><title>TELEVISION PUBLICA</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125241"><title>TELEMAX</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125242"><title>TELEFE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125243"><title>RTP</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125244"><title>RED UNO SANTA CRUZ</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125245"><title>RED PAT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125247"><title>MAGAZINE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125248"><title>LN+</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125249"><title>GIGAVISION</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125250"><title>EL TRECE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125255"><title>CRONICA TV</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125264"><title>AXN HD</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125265"><title>ATB</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125267"><title>AMC</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3125286"><title>A24</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127812"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127813"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127814"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127815"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127816"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127817"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127818"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127819"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127820"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127821"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127822"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127823"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127824"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127825"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127826"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127827"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127828"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127829"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127830"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127831"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127832"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127833"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127834"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127835"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127836"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127837"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127838"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127839"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127840"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127841"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127842"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127843"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127844"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127845"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127846"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127847"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127848"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127849"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127850"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127851"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127852"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127853"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127854"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127855"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127856"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127857"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127858"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127859"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127860"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127861"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127862"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127863"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127864"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127865"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127866"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127867"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127868"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127869"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127870"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127871"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127872"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127873"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127874"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127875"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127876"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127877"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127878"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3127879"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3138547"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3138548"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3138549"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3138550"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3138551"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3138552"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3138553"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3138841"><title>WNBA SEATTLE STORM</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3138842"><title>WNBA PHOENIX MERCURY</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3138843"><title>WNBA NEW YORK LIBERTY</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3138844"><title>WNBA MINNESOTA LYNX</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3138845"><title>WNBA LOS ANGELES SPARKS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3138850"><title>WNBA LAS VEGAS ACES</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3138851"><title>WNBA INDIANA FEVER</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3138852"><title>WNBA DALLAS WINGS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3138853"><title>WNBA CONNECTICUT SUN</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3138854"><title>WNBA CHICAGO SKY</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3138855"><title>WNBA ATLANTA DREAM</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3141293"><title>OFFLINE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3141294"><title>OFFLINE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3141515"><title>OFFLINE (HD)</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3141516"><title>OFFLINE (HD)</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3141517"><title>OFFLINE (HD)</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3141518"><title>OFFLINE (HD)</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3141519"><title>OFFLINE (HD)</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120011500 +0000" stop="20261120043900 +0000" channel="fctv-3141532"><title>NFL: Indianapolis Colts at Houston Texans</title><desc>Reliant Stadium, Houston. TV: Prime Video. Records: Indianapolis Colts (3-8) at Houston Texans (4-6)</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3142538"><title>OFFLINE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3143585"><title>OFFLINE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3143623"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3143624"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3143625"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3143626"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3143627"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3143628"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3143629"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3143630"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3143631"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3143632"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3143633"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3143634"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3143635"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3143636"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3143637"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3143638"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3144384"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3144385"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3144386"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3144387"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3144388"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3144389"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3144390"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3144391"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3144392"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3144393"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3144394"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3144395"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3144396"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3144397"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3144398"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3144399"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3144400"><title>No Event Scheduled</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145387"><title>OFFLINE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145388"><title>OFFLINE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145389"><title>OFFLINE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145390"><title>OFFLINE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145563"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145564"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145565"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145566"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145567"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145568"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145569"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145570"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145571"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145572"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145573"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145574"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145575"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145578"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145579"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145580"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145581"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145582"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145583"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145584"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145585"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145586"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145587"><title>NO EVENT</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145799"><title>OFFLINE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145800"><title>OFFLINE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145801"><title>OFFLINE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145802"><title>OFFLINE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3145803"><title>OFFLINE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147898"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147899"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147900"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147901"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147902"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147903"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147904"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147905"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147906"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147907"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147908"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147909"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147910"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147911"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147912"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147913"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147914"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147915"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147916"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147917"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147918"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147919"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147920"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147921"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147922"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147923"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147924"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147925"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147926"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147927"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147928"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147929"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147930"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147931"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147932"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147933"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147934"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147935"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147936"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147937"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147938"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147939"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147940"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147941"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147942"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147943"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147944"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147945"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147946"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147947"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147948"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147949"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147950"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147951"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147952"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147953"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147954"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-3147955"><title>ESPN+ slot</title><desc>No event named on this ESPN+ slot.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-32542"><title>SNY</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-36057"><title>WE TV ABSOLUTE REALITY</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-49910"><title>OFFLINE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-49911"><title>OFFLINE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-49912"><title>OFFLINE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-49913"><title>OFFLINE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-49914"><title>OFFLINE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-49915"><title>OFFLINE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-49916"><title>OFFLINE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-49917"><title>OFFLINE</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-58769"><title>ROOT SPORTS</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-70313"><title>NBCSN</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-70314"><title>NBCS CHANNEL CHICAGO</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-70315"><title>NBCSN CALIFORNIA</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-70318"><title>NBCS PHILADELPHIA</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-70319"><title>NBCSN BAY AREA</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+<programme start="20261120000000 +0000" stop="20261124000000 +0000" channel="fctv-870"><title>MAV TV</title><desc>Nothing scheduled on this channel right now.</desc></programme>
+</tv>
